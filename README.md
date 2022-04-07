@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![CPU-Z](https://valid.x86.fr/cache/banner/2xxdtq-3.png)](https://valid.x86.fr/2xxdtq)
+<a href="https://valid.x86.fr/2xxdtq" target="_blank">![CPU-Z](https://valid.x86.fr/cache/banner/2xxdtq-3.png)</a>
