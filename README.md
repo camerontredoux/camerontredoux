@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Cameron.
 
 <!--
 **camerontredoux/camerontredoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[url=https://valid.x86.fr/2xxdtq][img]https://valid.x86.fr/cache/banner/2xxdtq-6.png[/img][/url]
+
+[![CPU-Z](https://valid.x86.fr/cache/banner/2xxdtq-3.png)](https://valid.x86.fr/2xxdtq)
