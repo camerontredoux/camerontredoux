@@ -5,9 +5,17 @@
   
 <h3>About me</h3>
 <p>
-grew up in south africa 🇿🇦 and the united states 🇺🇸<br>
-interested in systems programming and fullstack development<br>
-self-learning rust and typescript<br>
+  grew up in south africa 🇿🇦 and the united states 🇺🇸<br>
+  interested in systems programming and fullstack development<br>
+  self-learning rust and typescript<br>
+  i enjoy rock climbing, skiing, gaming, and linux ricing
+</p>
+  
+<h3>Goals</h3>
+<p>
+  work as a full-time software engineer at a tech company<br>
+  begin contributing more to open-source projects<br>
+  get involved in linux kernel development<br>
 </p>
 
 <code>i use <a href="https://gentoo.org">gentoo</a>, btw</code>
