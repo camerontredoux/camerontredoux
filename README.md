@@ -18,9 +18,10 @@
   get involved in linux kernel development<br>
 </p>
 
-<code>i use <a href="https://gentoo.org">gentoo</a>, btw</code>
 <code>working on <a href="https://github.com/camerontredoux/kogan">kōgan</a>, my discord bot</code>
-
+<br>
+<code>i use <a href="https://gentoo.org">gentoo</a>, btw</code>
+  
 <h2>Follow me! 🧑‍💻</h2>
 <p><a href="https://www.linkedin.com/in/camerontredoux/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" /></a>&emsp;<a href="https://instagram.com/cameron_tredoux"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100"/></a></p>
 
