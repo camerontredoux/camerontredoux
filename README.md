@@ -18,7 +18,7 @@
   get involved in linux kernel development<br>
 </p>
 
-<code>developing <a href="https://github.com/camerontredoux/vexcollective">vex collective</a>, my destiny 2 stats web app</code>
+<code>developing <a href="https://github.com/camerontredoux/vexcollective">vex collective</a>, my destiny data explorer</code>
 <br>
 <code>working on <a href="https://github.com/camerontredoux/kogan">kōgan</a>, my discord bot</code>
   
