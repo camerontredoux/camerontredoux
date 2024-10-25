@@ -1,21 +1,21 @@
 <div align="center">
 <h2>Hi, I'm Cameron! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25" /></h2>
-<p><em>💻 Software Engineer Intern at <a href="https://keysight.com/">Keysight Technologies</a></em>
-  <br><em>📚 Computer Science Student at <a href="https://colorado.edu/">CU Boulder</a>, class of 2024</em></p>
+<p><em>💻 Fullstack Software Engineer at <a href="https://keysight.com/">Keysight Technologies</a></em>
+  <br><em>📚 BSc. Computer Science Graduate from <a href="https://colorado.edu/">CU Boulder</a>, class of 2024</em></p>
   
 <h3>About me</h3>
 <p>
   grew up in south africa 🇿🇦 and the united states 🇺🇸<br>
-  interested in systems programming and fullstack development<br>
-  self-learning rust and typescript<br>
-  i enjoy rock climbing, skiing, gaming, and linux ricing
+  interested in fullstack development and linux<br>
+  self-learning rust, typescript, and golang<br>
+  i enjoy skiing, reading, gaming, and linux ricing
 </p>
   
 <h3>Goals</h3>
 <p>
-  work as a full-time software engineer at a tech company<br>
+  reach senior full-time software engineer at a tech company<br>
   begin contributing more to open-source projects<br>
-  get involved in linux kernel development<br>
+  build projects outside my comfort zone<br>
 </p>
 
 <code>developing <a href="https://github.com/camerontredoux/vexcollective">vex collective</a>, my destiny data explorer</code>
